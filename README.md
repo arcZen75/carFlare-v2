@@ -147,10 +147,10 @@ VulkanRacer/
 
 ##  Installation
 
-### Step 1: Clone the Repository
+### Step 1: Clone the Repository through Git CLI
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+gh repo clone arcZen75/carFlare-v2
 ```
 
 ### Step 2: Open in CLion
